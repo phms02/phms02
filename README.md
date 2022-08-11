@@ -10,7 +10,7 @@
      <li>Technologies: HTML, CSS, JavaScript, PHP, MySQL;</li>
      <li>Frameworks: Bootstrap (CSS), Materialize (CSS);</li>
      <li>Code versioning: Git & GitHub;</li>
-     <li>Prototyping: Figma;</li>
+     <li>Prototyping: Figma, Canva;</li>
      <li>Agile methodologies: Scrum, Kanban.</li>
    </ul>
 
@@ -23,7 +23,7 @@
      <li>Tecnologias: HTML, CSS, JavaScript, PHP, MySQL;</li>
      <li>Frameworks: Bootstrap (CSS), Materialize (CSS);</li>
      <li>Versionamento de código: Git & GitHub;</li>
-     <li>Prototipação: Figma;</li>
+     <li>Prototipação: Figma, Canva;</li>
      <li>Metodologias ágeis: Scrum, Kanban.</li>
    </ul>
 
