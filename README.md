@@ -9,8 +9,8 @@
    <ul>
      <li>Technologies: HTML, CSS, JavaScript, Node.js, Python, PHP, MySQL;</li>
      <li>Frameworks: Bootstrap (CSS);</li>
-     <li>IDE: Visual Studio Community (Visual Studio);</li>
      <li>Text editor: Visual Studio Code (VSCode);</li>
+     <li>IDE: Visual Studio Community (Visual Studio);</li>
      <li>Code versioning: Git & GitHub;</li>
      <li>Prototyping: Figma, Canva;</li>
      <li>Agile methodologies: Scrum, Kanban.</li>
@@ -24,8 +24,8 @@
    <ul>
      <li>Tecnologias: HTML, CSS, JavaScript, Node.js, Python, PHP, MySQL;</li>
      <li>Frameworks: Bootstrap (CSS);</li>
+     <li>Editor de texto: Visual Studio Code (VSCode);</li>
      <li>IDE: Visual Studio Community (Visual Studio);</li>
-     <li>Text editor: Visual Studio Code (VSCode);</li>
      <li>Versionamento de código: Git & GitHub;</li>
      <li>Prototipação: Figma, Canva;</li>
      <li>Metodologias ágeis: Scrum, Kanban.</li>
@@ -52,6 +52,7 @@
   <img align="center" alt="Pedro-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Pedro-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Pedro-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Pedro-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 </div>
 
 <div> 
