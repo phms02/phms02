@@ -8,7 +8,9 @@
 ➜ Knowledges:
    <ul>
      <li>Technologies: HTML, CSS, JavaScript, Node.js, Python, PHP, MySQL;</li>
-     <li>Frameworks: Bootstrap (CSS), Materialize (CSS);</li>
+     <li>Frameworks: Bootstrap (CSS);</li>
+     <li>IDE: Visual Studio Community (Visual Studio);</li>
+     <li>Text editor: Visual Studio Code (VSCode);</li>
      <li>Code versioning: Git & GitHub;</li>
      <li>Prototyping: Figma, Canva;</li>
      <li>Agile methodologies: Scrum, Kanban.</li>
@@ -21,7 +23,9 @@
 ➜ Conhecimentos:
    <ul>
      <li>Tecnologias: HTML, CSS, JavaScript, Node.js, Python, PHP, MySQL;</li>
-     <li>Frameworks: Bootstrap (CSS), Materialize (CSS);</li>
+     <li>Frameworks: Bootstrap (CSS);</li>
+     <li>IDE: Visual Studio Community (Visual Studio);</li>
+     <li>Text editor: Visual Studio Code (VSCode);</li>
      <li>Versionamento de código: Git & GitHub;</li>
      <li>Prototipação: Figma, Canva;</li>
      <li>Metodologias ágeis: Scrum, Kanban.</li>
