@@ -7,7 +7,7 @@
 ➜ Since childhood, I have been very comfortable with technologies and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have great communication, resilience and ease in working in a group. I have initiative in solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences. Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option.<br>
 ➜ Knowledges:
    <ul>
-     <li>Technologies: HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Node.js, Python, PHP, MySQL;</li>
+     <li>Technologies: HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Node.js, Python, PHP, MySQL, MongoDB, Firebase;</li>
      <li>Text editor: Visual Studio Code (VSCode);</li>
      <li>IDE: Visual Studio Community (Visual Studio);</li>
      <li>Code versioning: Git & GitHub;</li>
@@ -21,7 +21,7 @@
 ➜ Desde a infância, eu tenho muita facilidade com tecnologias e, hoje, eu sei que escolhi a área com a qual me identifico e tenho grande possibilidade de crescimento profissional. Tenho uma ótima comunicação, resiliência e facilidade em trabalhar em grupo. Possuo iniciativa em resolver problemas/situações adversas, sempre me adaptando muito bem a todas as situações, e muita vontade de adquirir experiências novas. Destaca-se, também, a resolução de problemas por meio da comunicação e compreensão da situação, buscando sempre a melhor opção.<br>
 ➜ Conhecimentos:
    <ul>
-     <li>Tecnologias: HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Node.js, Python, PHP, MySQL;</li>
+     <li>Tecnologias: HTML, CSS, Bootstrap, JavaScript, React, React Native, TypeScript, Node.js, Python, PHP, MySQL, MongoDB, Firebase;</li>
      <li>Editor de texto: Visual Studio Code (VSCode);</li>
      <li>IDE: Visual Studio Community (Visual Studio);</li>
      <li>Versionamento de código: Git & GitHub;</li>
@@ -49,6 +49,7 @@
   <img align="center" alt="Pedro-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Pedro-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Pedro-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Pedro-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Pedro-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
