@@ -13,19 +13,6 @@
      <li>Prototyping: Figma;</li>
      <li>Agile methodologies: Scrum, Kanban.</li>
    </ul>
-
-### Quem sou?  
-➜ Meu nome é Pedro Henrique Mequelim da Silva, e sou estudante de Análise e Desenvolvimento de Sistemas.<br>
-➜ Sou apaoixonado por tecnologia e programação.<br>
-➜ Desde a infância, eu tenho muita facilidade com tecnologias e, hoje, eu sei que escolhi a área com a qual me identifico e tenho grande possibilidade de crescimento profissional. Tenho uma ótima comunicação, resiliência e facilidade em trabalhar em grupo. Possuo iniciativa em resolver problemas/situações adversas, sempre me adaptando muito bem a todas as situações, e muita vontade de adquirir experiências novas. Destaca-se, também, a resolução de problemas por meio da comunicação e compreensão da situação, buscando sempre a melhor opção.<br>
-➜ Conhecimentos:
-   <ul>
-     <li>Tecnologias: HTML, CSS, Bootstrap, JavaScript, React.js, React Native, PHP, MySQL;</li>
-     <li>Editor de texto: Visual Studio Code (VSCode);</li>
-     <li>Versionamento de código: Git & GitHub;</li>
-     <li>Prototipação: Figma;</li>
-     <li>Metodologias ágeis: Scrum & Kanban.</li>
-   </ul>
    
    <div align="center">
   <a href="https://github.com/duribeiro">
