@@ -2,7 +2,9 @@
 
 ### Who I am?
 
-➜ My name is Pedro Henrique Mequelim da Silva, and I'm a Systems Analysis and Development Student and FullStack Web Developer intern.
+➜ My name is Pedro Henrique Mequelim da Silva.
+<br>
+➜ I'm a Systems Analysis and Development Student and FullStack Web Developer intern.
 <br>
 ➜ I am passionate about technology and programming.
 <br>
