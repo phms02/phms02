@@ -13,7 +13,6 @@
 ➜ Knowledges:
    <ul>
      <li>Technologies: HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, React Native, PHP, Firebase, MySQL;</li>
-     <li>Text editor: Visual Studio Code (VSCode);</li>
      <li>Code versioning: Git & GitHub;</li>
      <li>Prototyping: Figma;</li>
      <li>Agile methodologies: Scrum, Kanban.</li>
