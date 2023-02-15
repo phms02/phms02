@@ -23,9 +23,13 @@
 
 <div>
   <a href="https://github.com/phms07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
+
+![](https://github-readme-stats-6u2v.vercel.app/api?username=phms07&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=blueberry&hide_border=true)
 
 <br>
 
