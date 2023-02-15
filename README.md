@@ -1,6 +1,6 @@
 ### Hi, there! 👋
 
-### Who I am?
+### Who am I?
 <ul>
    <li>
       My name is <b>Pedro Henrique Mequelim da Silva</b>.
