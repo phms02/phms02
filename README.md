@@ -15,7 +15,7 @@
    </li>
    
    <li>
-      Since <b>childhood</b>, I have been <b>very comfortable with technologies</b> and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have <b>great communication, resilience and ease in working in a group</b>. I have <b>initiative</b> in <b>solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences</b>. <b>Problem solving through communication and understanding</b> of the situation is also highlighted, <b>always looking for the best option</b>.
+      Since <b>childhood</b>, I have been <b>very comfortable with technologies</b> and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have <b>great communication, resilience and ease in working in a group</b>. I have <b>initiative</b> in <b>solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences</b>. <b>Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option</b>.
    </li>
 </ul>
 
