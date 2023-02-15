@@ -3,19 +3,19 @@
 ### Who I am?
 <ul>
    <li>
-      My name is Pedro Henrique Mequelim da Silva.
+      My name is <b>Pedro Henrique Mequelim da Silva</b>.
    </li>
    
    <li>
-      I'm a Systems Analysis and Development Student and FullStack Web Developer intern.
+      I'm a <b>Systems Analysis and Development Student</b> and <b>FullStack Web Developer Intern</b>.
    </li>
    
    <li>
-      I am passionate about technology and programming.
+      I am <b>passionate</b> about <b>technology and programming</b>.
    </li>
    
    <li>
-      Since childhood, I have been very comfortable with technologies and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have great communication, resilience and ease in working in a group. I have initiative in solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences. Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option.
+      Since <b>childhood</b>, I have been <b>very comfortable with technologies</b> and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have <b>great communication, resilience and ease in working in a group</b>. I have <b>initiative</b> in <b>solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences</b>. <b>Problem solving through communication and understanding</b> of the situation is also highlighted, <b>always looking for the best option</b>.
    </li>
 </ul>
 
