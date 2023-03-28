@@ -28,7 +28,6 @@
 </div>
 
 ![](https://github-readme-stats-6u2v.vercel.app/api?username=phms07&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=blueberry&hide_border=true)
 
 <br>
