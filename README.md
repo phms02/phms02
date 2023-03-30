@@ -22,8 +22,8 @@
 <br>
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Pedro GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
 
 <br>
 
