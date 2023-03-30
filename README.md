@@ -21,12 +21,11 @@
 
 <br>
 
+### ⬛️ GitHub Stats:
+   ![](https://github-readme-stats.vercel.app/api?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
 <div>
-  <p align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" />
-    <br>
-    <img width="390em" padding="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&hide=html&layout=compact&theme=blueberry" />
-  </p>
+   <a href="http://www.github.com/phms07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=phms07&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><br><br>
 </div>
 
 <br>
