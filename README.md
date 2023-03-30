@@ -25,7 +25,7 @@
   <p align="center">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" />
     <br>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&hide=html&layout=compact&theme=blueberry" />
+    <img width="390em" padding="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&hide=html&layout=compact&theme=blueberry" />
   </p>
 </div>
 
