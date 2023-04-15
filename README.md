@@ -22,17 +22,23 @@
 <br>
 
 ### GitHub Stats:
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Pedro GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout)
+<a href="http://www.github.com/phms07">
+     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=phms07&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
+<br>
 <br>
 
 <div>
    <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
    <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> 
    <!-- <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
    <img align="center" alt="react" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <!-- <img align="center" alt="node" height="70" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> -->
    <img align="center" alt="php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img align="center" alt="firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
    <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
