@@ -24,13 +24,7 @@
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout)
-<a href="http://www.github.com/phms07">
-     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=phms07&bg_color=1c1917&color=ffffff&line=0cd0cd&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<br>
-<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div>
    <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
