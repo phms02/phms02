@@ -25,13 +25,13 @@
    <li>
       SKILLS:
    </li>
-      ➞ FrontEnd: HTML, CSS, Bootstrap, JavaScript, React.js, PHP.<br>
-      ➞ BackEnd: PHP, Node.js, Firebase.<br>
-      ➞ Mobile: React Native.<br>
-      ➞ Database: MySQL.<br>
-      ➞ Agile methodologies: Scrum, Kanban.<br>
-      ➞ Operating Systems: Windows, Linux, macOS.<br>
-      ➞ Languages: Portuguese, Spanish, and English.<br>
+      ➞ <b>FrontEnd:</b> HTML, CSS, Bootstrap, JavaScript, React.js, PHP.<br>
+      ➞ <b>BackEnd:</b> PHP, Node.js, Firebase.<br>
+      ➞ <b>Mobile:</b> React Native.<br>
+      ➞ <b>Database:</b> MySQL.<br>
+      ➞ <b>Agile methodologies:</b> Scrum, Kanban.<br>
+      ➞ <b>Operating Systems:</b> Windows, Linux, macOS.<br>
+      ➞ <b>Languages:</b> Portuguese, Spanish, and English.
 </ul>
 
 <br>
