@@ -23,7 +23,7 @@
    </li>
    
    <li>
-      SKILLS:
+      <b>SKILLS:</b>
    </li>
       ➞ <b>FrontEnd:</b> HTML, CSS, Bootstrap, JavaScript, React.js, PHP.<br>
       ➞ <b>BackEnd:</b> PHP, Node.js, Firebase.<br>
