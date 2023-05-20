@@ -7,7 +7,7 @@
    </li>
    
    <li>
-      I'm a <b>Systems Analysis and Development Student</b> and <b>FullStack Web Developer Intern</b>.
+      I'm a <b>Systems Analysis and Development Student</b>.
    </li>
    
    <li>
