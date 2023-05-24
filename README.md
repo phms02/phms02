@@ -31,7 +31,7 @@
       ➞ <b>Database:</b> MySQL.<br>
       ➞ <b>Agile methodologies:</b> Scrum, Kanban.<br>
       ➞ <b>Operating Systems:</b> Windows, Linux, macOS.<br>
-      ➞ <b>Languages:</b> Portuguese, Spanish, and English.
+      ➞ <b>Languages:</b> Portuguese, Spanish and English.
 </ul>
 
 <br>
