@@ -5,7 +5,6 @@
    <li>
       My name is <b>Pedro Henrique Mequelim da Silva</b>, I'm <b>21 years-old</b>.
    </li>
-   
    <li>
       I'm a <b>Systems Analysis and Development Student</b>.
    </li>
