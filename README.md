@@ -3,7 +3,7 @@
 ### Who am I?
 <ul>
    <li>
-      My name is <b>Pedro Henrique Mequelim da Silva</b>, I'm <b>21 years-old</b>.
+      My name is <b>Pedro Mequelim</b>.
    </li>
    
    <li>
