@@ -11,19 +11,15 @@
    </li>
    
    <li>
-      I am <b>passionate</b> about <b>technology and programming</b>.
-   </li>
-   
-   <li>
-      Since <b>childhood</b>, I have been <b>very comfortable with technologies</b> and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have <b>great communication, resilience and ease in working in a group</b>. I have <b>initiative</b> in <b>solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences</b>. <b>Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option</b>.
+      I am <b>passionate</b> about <b>technology and programming mobile</b>.
    </li>
 
 <br>
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=algolia&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div>
   <h2>Technologies:</h2>
