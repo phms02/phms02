@@ -19,10 +19,6 @@
    </li>
    
    <li>
-      I hold a Scrum certification (SFPC).
-   </li>
-   
-   <li>
       <b>SKILLS:</b>
    </li>
       ➞ <b>FrontEnd:</b> HTML, CSS, Bootstrap, JavaScript, React.js, Angular, PHP.<br>
@@ -31,7 +27,7 @@
       ➞ <b>Database:</b> MySQL.<br>
       ➞ <b>Agile methodologies:</b> Scrum, Kanban.<br>
       ➞ <b>Operating Systems:</b> Windows, Linux, macOS.<br>
-      ➞ <b>Languages:</b> Portuguese, Spanish and English.
+      ➞ <b>Languages:</b> Portuguese, Spanish, English.
 </ul>
 
 <br>
@@ -52,8 +48,8 @@
    <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="Express.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
    <!-- <img align="center" alt="D3.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" /> -->
-   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
    <!-- <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
    <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
