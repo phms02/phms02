@@ -6,6 +6,7 @@
    <li> I'm a <b>Systems Analysis and Development Student</b>.</li>
    <li>I am <b>passionate</b> about <b>technology and programming</b>.</li>
    <li><b>Mobile and web programming enthusiast</b>.</li>
+</ul>
 
 <br>
 
