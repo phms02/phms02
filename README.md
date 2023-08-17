@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div>
-    <h2>Languages Programming and Technologies:</h2>
+    <h2>Technologies:</h2>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> 
