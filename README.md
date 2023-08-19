@@ -23,7 +23,7 @@
     <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin-original.svg" />
+    <!-- <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin-original.svg" /> -->
     <!-- <img align="center" alt="CSharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> --> 
     <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="PostgreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
