@@ -26,7 +26,6 @@
     <!-- <img align="center" alt="CSharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> --> 
     <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="SQLite" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  
 </div>
 
 <div>
