@@ -12,7 +12,7 @@
 
 ## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=algolia&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <div>
     <h2>Principais tecnologias:</h2>
