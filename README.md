@@ -1,12 +1,12 @@
 # Hi, there! 👋
 
 <div>
-  <h2>Who am I?</h2>
+  <h2>Sobre mim</h2>
   <ul>
-    <li>My name is <b>Pedro Mequelim</b>.</li>
-  	<li> I'm a <b>Systems Analysis and Development Student</b>.</li>
-  	<li>I am <b>passionate</b> about <b>technology and programming</b>.</li>
-  	<li><b>Mobile and web programming enthusiast</b>.</li>
+    <li>Meu nome é <b>Pedro Mequelim</b>.</li>
+  	<li> Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  	<li>Sou <b>apaixonado</b> por <b>tecnologia e programação</b>.</li>
+  	<li><b>Entusiasta da programação web e mobile</b>.</li>
   </ul>
 </div>
 
@@ -15,28 +15,25 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div>
-    <h2>Main technologies</h2>
+    <h2>Principais tecnologias:</h2>
+    <h3>FrontEnd:</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="React.js and React Native" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <br>
+    <h3>BackEnd:</h3>
     <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <!-- <img align="center" alt="CSharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
     <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    <br>
+    <h3>Database:</h3>
     <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 
 <div>
-    <h2>Main text editors, IDEs and tools</h2>
-    <img align="center" alt="VSCode" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <!-- <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> -->
-    <img align="center" alt="Android Studio" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</div>
-
-<div>
-    <h2>Contacts</h2>
+    <h2>Entre em contato:</h2>
     <a href = "mailto:pedrohenriquemiquelimdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedro-mequelim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
