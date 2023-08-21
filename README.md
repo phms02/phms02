@@ -4,8 +4,8 @@
   <h2>Sobre mim</h2>
   <ul>
     <li>Meu nome é <b>Pedro Mequelim</b>.</li>
-  	<li> Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>.</li>
-  	<li>Sou <b>apaixonado</b> por <b>tecnologia e programação</b>.</li>
+  	<li>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>.</li>
+  	<li><b>Apaixonado</b> por <b>tecnologia e programação</b>.</li>
   	<li><b>Entusiasta da programação web e mobile</b>, áreas que estou buscando me especializar e conquistar conhecimento diariamente!</li>
   </ul>
 </div>
