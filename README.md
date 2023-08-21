@@ -11,7 +11,7 @@
 </div>
 
 ## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=phms07&theme=algolia&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
 
 <div>
@@ -24,7 +24,6 @@
     <br>
     <h3>BackEnd</h3>
     <img align="center" alt="Node.js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <!-- <img align="center" alt="CSharp" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
     <img align="center" alt="Firebase" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <br>
     <h3>Mobile</h3>
