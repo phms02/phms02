@@ -10,10 +10,6 @@
   </ul>
 </div>
 
-## GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
-
 <div>
     <h2>Principais tecnologias</h2>
     <h3>FrontEnd</h3>
