@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/phms07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&langs_count=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=10&theme=github_dark"/>
 </div>
 
 <div>
