@@ -10,6 +10,12 @@
   </ul>
 </div>
 
+<div align="center">
+  <a href="https://github.com/phms07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
 <div>
     <h2>Principais tecnologias</h2>
     <h3>FrontEnd</h3>
