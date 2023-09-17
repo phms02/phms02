@@ -34,7 +34,6 @@
     <img align="center" alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <br>
     <h3>Mobile</h3>
-    <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img align="center" alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <br>
     <h3>Database</h3>
