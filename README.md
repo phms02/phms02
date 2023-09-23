@@ -4,7 +4,6 @@
   <h2>Sobre mim</h2>
   <ul>
     <li>Meu nome é <b>Pedro Henrique</b>.</li>
-  	<li>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>.</li>
   	<li><b>Apaixonado por <b>tecnologia e programação</b>.</li>
   	<li><b>Entusiasta da programação web e mobile.</b></li>
   </ul>
