@@ -38,6 +38,7 @@
       <img alt="Express" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
       <img alt="C#" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img alt="PHP" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img alt="Firebase" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     </div>
     <br>
     <h3>Mobile</h3>
@@ -50,19 +51,10 @@
       <img alt="PostgreSQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </div>
-    <h3>ORM</h3>
-    <div align="center">
-      <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-    </div>
     <h3>API</h3>
     <div align="center">
       <img alt="GraphQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
       <img alt="Feather.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" />
-    </div>
-    <br>
-    <h3>Testes</h3>
-    <div align="center">
-        <img alt="Jest" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     </div>
 </div>
 <div>
