@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <!-- <a href="https://github.com/phms07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> -->
+  <a href="https://github.com/phms07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms07&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
@@ -28,6 +28,7 @@
       <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="React.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img alt="Vue.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img alt="Angular" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     </div>
     <br>
     <h3>BackEnd</h3>
