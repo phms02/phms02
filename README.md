@@ -36,7 +36,10 @@
       <img alt="Node.js" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img alt="Express" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
       <img alt="CSharp" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img alt="Firebase" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <img alt="DotNet" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+      <img alt="Ruby" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+      <img alt="Rails" height="60" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+      <img alt="Firebase" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     </div>
     <br>
     <h3>Mobile</h3>
