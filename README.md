@@ -31,7 +31,6 @@
         <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
         <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
         <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
-        <img alt="Angular" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=angular">
       </a>
       <!-- <img alt="HTML" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img alt="CSS" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -42,8 +41,7 @@
       <img alt="JavaScript" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="React.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="Vue.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      <img alt="Angular" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
+      <img alt="Vue.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
     </div>
     <br>
     <h3>BackEnd</h3>
