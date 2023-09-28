@@ -53,7 +53,7 @@
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
         <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
-        <img alt="Laravel" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=laravel">
+        <!-- <img alt="Laravel" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=laravel"> -->
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
       <!-- <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
