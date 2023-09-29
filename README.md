@@ -53,7 +53,7 @@
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
         <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
-        <!-- <img alt="Laravel" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=laravel"> -->
+        <img alt="Laravel" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=laravel">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
       <!-- <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -61,6 +61,7 @@
       <img alt="CSharp" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img alt="DotNet" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
       <img alt="PHP" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img alt="Laravel" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=laravel">
       <img alt="Firebase" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> -->
     </div>
     <br>
@@ -96,9 +97,15 @@
       </a>
       <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> -->
     </div>
+    <h3>APIs</h3>
+    <div align="center">
+        <img alt="Feather.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" />
+    </div>
+    <br>
 </div>
-<div>
-    <h2>Entre em contato</h2>
+
+<h2>Entre em contato</h2>
+<div align="center">
     <a href="mailto:pedrohenriquemiquelimdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedro-mequelim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
