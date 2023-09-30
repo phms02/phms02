@@ -1,4 +1,4 @@
-ski# Seja muito bem-vindo(a)! 👋
+# Seja muito bem-vindo(a)! 👋
 
 <div>
   <h2>Sobre mim</h2>
