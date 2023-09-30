@@ -76,11 +76,9 @@ ski# Seja muito bem-vindo(a)! 👋
       <a href="https://skillicons.dev">
         <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
         <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
-        <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
       </a>
       <!-- <img alt="PostgreSQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img alt="MongoDB" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
+      <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -->
     </div>
     <h3>ORM</h3>
     <div align="center">
