@@ -68,9 +68,7 @@ ski# Seja muito bem-vindo(a)! 👋
       <a href="https://skillicons.dev">
         <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
       </a>
-      <!-- <img alt="React Native" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="Ionic" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-      -->
+      <!-- <img alt="React Native" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
     </div>
     <br>
     <h3>Database</h3>
@@ -78,12 +76,10 @@ ski# Seja muito bem-vindo(a)! 👋
       <a href="https://skillicons.dev">
         <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
         <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
-        <img alt="SQLite" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sqlite">
         <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
       </a>
       <!-- <img alt="PostgreSQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img alt="SQLite" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
       <img alt="MongoDB" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
     </div>
     <h3>ORM</h3>
