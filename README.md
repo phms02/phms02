@@ -68,7 +68,6 @@ ski# Seja muito bem-vindo(a)! 👋
     <div align="center">
       <a href="https://skillicons.dev">
         <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-        <img alt="Ionic" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
       </a>
       <!-- <img alt="React Native" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img alt="Ionic" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
