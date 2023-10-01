@@ -86,7 +86,6 @@
     <div align="center">
       <a href="https://skillicons.dev">
         <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
-        <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
       </a>
       <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> -->
     </div>
