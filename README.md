@@ -29,9 +29,9 @@
       <img alt="Bulma" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
       <a href="https://skillicons.dev">
         <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
+        <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
         <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
         <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
-        <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       </a>
       <!-- <img alt="HTML" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
       <img alt="CSS" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
