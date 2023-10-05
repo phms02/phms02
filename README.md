@@ -54,14 +54,12 @@
         <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
-        <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
       <!-- <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="Node.js" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img alt="CSharp" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img alt="DotNet" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-      <img alt="PHP" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
       <img alt="Firebase" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> -->
     </div>
     <br>
@@ -78,9 +76,11 @@
       <a href="https://skillicons.dev">
         <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
         <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
+        <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
       </a>
       <!-- <img alt="PostgreSQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -->
+      <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img alt="MongoDB" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
     </div>
     <h3>ORM</h3>
     <div align="center">
