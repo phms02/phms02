@@ -94,16 +94,6 @@
       <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
       <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma"> -->
     </div>
-    <h3>APIs</h3>
-    <div align="center">
-        <img alt="Feather.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" />
-    </div>
-    <br>
-    <h3>Testes</h3>
-    <div align="center">
-        <img alt="Jest" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=jest">
-        <!-- <img alt="Jest" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -->
-    </div>
 </div>
 
 <h2>Entre em contato</h2>
