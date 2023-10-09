@@ -51,13 +51,16 @@
       <a href="https://skillicons.dev">
         <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
         <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
-        <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
+        <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
+        <img alt="Nest" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
       <!-- <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="Node.js" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img alt="Express" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img alt="Jest" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
       <img alt="CSharp" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img alt="DotNet" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
       <img alt="Firebase" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> -->
@@ -88,13 +91,19 @@
         <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
         <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
       </a>
-      <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /> -->
+      <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+      <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma"> -->
     </div>
     <h3>APIs</h3>
     <div align="center">
         <img alt="Feather.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" />
     </div>
     <br>
+    <h3>Testes</h3>
+    <div align="center">
+        <img alt="Jest" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=jest">
+        <!-- <img alt="Jest" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> -->
+    </div>
 </div>
 
 <h2>Entre em contato</h2>
