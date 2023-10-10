@@ -47,7 +47,7 @@
       <a href="https://skillicons.dev">
         <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
         <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
-        <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
+        <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
