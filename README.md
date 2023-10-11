@@ -28,7 +28,6 @@
         <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
         <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
         <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-        <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
         <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
         <img alt="Electron" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=electron">
       </a>
@@ -40,7 +39,6 @@
       <img alt="JavaScript" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
       <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="React.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="Vue.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       <img alt="Next.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
       <img alt="Electron" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> -->
     </div>
