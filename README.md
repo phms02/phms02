@@ -30,15 +30,6 @@
         <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
         <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
       </a>
-      <!-- <img alt="HTML" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-      <img alt="CSS" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-      <img alt="Bootstrap" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-      <img alt="SASS" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img alt="Tailwind CSS" height="50" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-      <img alt="JavaScript" height="35" width="40" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-      <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img alt="React.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="Next.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> -->
     </div>
     <br>
     <h3>BackEnd</h3>
@@ -49,14 +40,9 @@
         <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
         <img alt="CSharp" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
         <img alt="DotNet" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
+        <img alt="PHP" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
-      <!-- <img alt="TypeScript" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img alt="Node.js" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img alt="Express" height="35" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-      <img alt="CSharp" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img alt="DotNet" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-      <img alt="Firebase" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> -->
     </div>
     <br>
     <h3>Mobile</h3>
@@ -72,7 +58,6 @@
       <a href="https://skillicons.dev">
         <img alt="Electron" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=electron">
       </a>
-      <!-- <img alt="Electron" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" /> -->
     </div>
     <br>
     <h3>Database</h3>
@@ -82,9 +67,6 @@
         <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
         <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
       </a>
-      <!-- <img alt="PostgreSQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img alt="MySQL" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img alt="MongoDB" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
     </div>
     <h3>ORM</h3>
     <div align="center">
@@ -92,8 +74,6 @@
         <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
         <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
       </a>
-      <!-- <img alt="Sequelize" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-      <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma"> -->
     </div>
 </div>
 
