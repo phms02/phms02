@@ -5,7 +5,7 @@
   <ul>
     <li><b>Meu nome é Pedro Henrique</b>.</li>
   	<li><b>Apaixonado por <b>tecnologia e programação</b>.</li>
-  	<li><b>Entusiasta da programação web e mobile.</b></li>
+  	<li><b>Entusiasta da programação mobile.</b></li>
   </ul>
 </div>
 
