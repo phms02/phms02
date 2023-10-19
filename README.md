@@ -50,14 +50,6 @@
       <a href="https://skillicons.dev">
         <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
       </a>
-      <!-- <img alt="React Native" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
-    </div>
-    <br>
-    <h3>Desktop</h3>
-    <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="Electron" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=electron">
-      </a>
     </div>
     <br>
     <h3>Database</h3>
