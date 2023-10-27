@@ -37,6 +37,9 @@
         <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
         <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
         <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
+        <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=csharp">
+        <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
+        <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
         <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
       </a>
     </div>
