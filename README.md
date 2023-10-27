@@ -19,52 +19,42 @@
     <h2>Principais tecnologias</h2>
     <h3>FrontEnd</h3>
     <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
-        <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
-        <img alt="Bootstrap" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=bootstrap">
-        <img alt="SASS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
-        <img alt="Tailwind CSS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
-        <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
-        <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
-        <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      </a>
+      <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
+      <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
+      <img alt="Bootstrap" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=bootstrap">
+      <img alt="SASS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
+      <img alt="Tailwind CSS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
+      <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
+      <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
+      <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
     </div>
     <br>
     <h3>BackEnd</h3>
     <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
-        <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
-        <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
-        <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=csharp">
-        <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
-        <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
-        <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
-      </a>
+      <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
+      <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
+      <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
+      <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=csharp">
+      <img alt=".NET" height="35" width="30" align="center" src="https://skillicons.dev/icons?i=dotnet">
+      <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
+      <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
     </div>
     <br>
     <h3>Mobile</h3>
     <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      </a>
+      <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
     </div>
     <br>
     <h3>Database</h3>
     <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
-        <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
-        <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
-      </a>
+      <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
+      <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
+      <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
     </div>
     <h3>ORM</h3>
     <div align="center">
-      <a href="https://skillicons.dev">
-        <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
-        <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
-      </a>
+      <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
+      <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
 </div>
 
