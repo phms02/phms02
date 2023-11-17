@@ -43,7 +43,6 @@
     <h3>Mobile</h3>
     <div align="center">
       <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      <img alt="Ionic" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=ionic">
     </div>
     <br>
     <h3>Desktop</h3>
