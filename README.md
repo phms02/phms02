@@ -45,21 +45,11 @@
       <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
     </div>
     <br>
-    <h3>Desktop</h3>
-    <div align="center">
-      <img alt="Electrons.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=electron">
-    </div>
-    <br>
     <h3>Database</h3>
     <div align="center">
       <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
-    </div>
-    <h3>ORM</h3>
-    <div align="center">
-      <img alt="Sequelize" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
-      <img alt="Prisma" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
 </div>
 
