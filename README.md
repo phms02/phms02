@@ -28,7 +28,6 @@
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
       <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
       <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
-      <img alt="Vite" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vite">
     </div>
     <br>
     <h3>BackEnd</h3>
