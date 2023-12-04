@@ -39,7 +39,6 @@
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cs">
       <img alt=".NET" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dotnet">
-      <img alt="PHP" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=php">
       <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
     </div>
     <br>
