@@ -50,7 +50,6 @@
     <br>
     <h3>Database</h3>
     <div align="center">
-      <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
     </div>
