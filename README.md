@@ -47,11 +47,6 @@
       <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
     </div>
     <br>
-    <h3>Desktop</h3>
-    <div align="center">
-      <img alt="Electron.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=electron">
-    </div>
-    <br>
     <h3>Database</h3>
     <div align="center">
       <img alt="PostgreSQL" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=postgresql">
