@@ -58,6 +58,14 @@
       <img alt="GitHub" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=github">
       <img alt="GitLab" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=gitlab">
     </div>
+    <br>
+    <h3>Gerenciadores e instaladores de pacotes</h3>
+    <div align="center">
+      <img alt="Docker" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=docker">
+      <img alt="npm" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      <img alt="Yarn" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+      <img alt="NuGet" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
+    </div>
 </div>
 
 <h2>Entre em contato</h2>
