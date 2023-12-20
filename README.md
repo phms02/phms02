@@ -51,6 +51,13 @@
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
     </div>
+    <br>
+    <h3>Versionamento de código</h3>
+    <div align="center">
+      <img alt="Git" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=git">
+      <img alt="GitHub" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=github">
+      <img alt="GitLab" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=gitlab">
+    </div>
 </div>
 
 <h2>Entre em contato</h2>
