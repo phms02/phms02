@@ -21,13 +21,15 @@
     <div align="center">
       <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
       <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
-      <img alt="Bootstrap" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=bootstrap">
       <img alt="Tailwind CSS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
       <img alt="SASS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
+      <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
+      <img alt="Svelte" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=svelte">
       <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
+      <img alt="Nuxt.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nuxt">
     </div>
     <br>
     <h3>BackEnd</h3>
@@ -35,6 +37,7 @@
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
       <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
+      <img alt="Fastapi" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=fastapi">
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cs">
       <img alt=".NET" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dotnet">
@@ -48,15 +51,22 @@
     <br>
     <h3>Database</h3>
     <div align="center">
+      <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
+    </div>
+    <br>
+    <h3>ORM</h3>
+    <div align="center">
+      <img alt="Sequelize" height="55" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
+      <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
     <br>
     <h3>Versionamento de código</h3>
     <div align="center">
       <img alt="Git" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=git">
       <img alt="GitHub" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=github">
-      <img alt="GitLab" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=gitlab">
+      <img alt="GitLab" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=gitlab">
     </div>
     <br>
     <h3>Gerenciadores e instaladores de pacotes</h3>
