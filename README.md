@@ -3,9 +3,9 @@
 <div>
   <h2>Sobre mim</h2>
   <ul>
-    <li><b>Meu nome é Pedro Henrique</b>.</li>
-  	<li><b>Apaixonado por <b>tecnologia e programação</b>.</li>
-  	<li><b>Entusiasta da programação mobile.</b></li>
+    <li>Meu nome é Pedro Henrique.</li>
+  	<li>Apaixonado por tecnologia e programação.</li>
+  	<li>Entusiasta da programação mobile.</li>
   </ul>
 </div>
 
