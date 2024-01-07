@@ -63,7 +63,7 @@
     <br>
     <h3>Versionamento de código</h3>
     <div align="center">
-      <img alt="Git" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=git">
+      <img alt="Git" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=git">
       <img alt="GitHub" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=github">
       <img alt="GitLab" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=gitlab">
     </div>
