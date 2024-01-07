@@ -26,10 +26,7 @@
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
-      <img alt="Svelte" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=svelte">
       <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
-      <img alt="Nuxt.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nuxt">
     </div>
     <br>
     <h3>BackEnd</h3>
@@ -40,7 +37,7 @@
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cs">
       <img alt=".NET" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dotnet">
-      <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
+      <img alt="Java" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=java">
     </div>
     <br>
     <h3>Mobile</h3>
@@ -61,13 +58,6 @@
       <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
     <br>
-    <h3>Gerenciadores e instaladores de pacotes</h3>
-    <div align="center">
-      <img alt="Docker" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=docker">
-      <img alt="npm" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-      <img alt="Yarn" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-      <img alt="NuGet" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
-    </div>
 </div>
 
 <h2>Entre em contato</h2>
