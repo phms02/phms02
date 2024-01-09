@@ -57,7 +57,6 @@
       <img alt="Sequelize" height="55" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
       <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
-    <br>
 </div>
 
 <h2>Entre em contato</h2>
