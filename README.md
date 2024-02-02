@@ -39,11 +39,7 @@
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Python" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=python">
       <img alt="Django" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=django">
-      <img alt="Flask" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=flask">
       <img alt="FastAPI" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=fastapi">
-      <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cs">
-      <img alt=".NET" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dotnet">
-      <img alt="Java" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=java">
     </div>
     <br>
     <h3>Mobile</h3>
