@@ -25,10 +25,7 @@
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
-      <img alt="Svelte" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=svelte">
       <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
-      <img alt="Nuxt.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nuxt">
     </div>
     <br>
     <h3>BackEnd</h3>
