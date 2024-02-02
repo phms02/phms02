@@ -37,9 +37,6 @@
       <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
       <img alt="Express" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
-      <img alt="Python" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=python">
-      <img alt="Django" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=django">
-      <img alt="FastAPI" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=fastapi">
     </div>
     <br>
     <h3>Mobile</h3>
