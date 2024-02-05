@@ -36,9 +36,8 @@
       <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
-      <img alt="Python" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=python">
-      <img alt="Django" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=django">
-      <img alt="Flask" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=flask">
+      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
+      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
       <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
     </div>
     <br>
