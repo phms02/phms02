@@ -22,6 +22,7 @@
       <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
       <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
       <img alt="TailwindCSS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
+      <img alt="SASS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
@@ -36,8 +37,8 @@
       <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="Nest.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
-      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
-      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
+      <img alt="Java" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=java">
+      <img alt="Spring Boot" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=spring">
       <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
     </div>
     <br>
