@@ -35,9 +35,8 @@
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
-      <img alt="Python" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=python">
-      <img alt="Django" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=django">
-      <img alt="FastAPI" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=fastapi">
+      <img alt="Java" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=java">
+      <img alt="Spring Boot" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=spring">
       <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
     </div>
     <br>
