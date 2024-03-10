@@ -1,11 +1,12 @@
 # Seja muito bem-vindo(a)! 👋
 
 <div>
-  <h2>Sobre mim</h2>
+  <h2>About me</h2>
   <ul>
-    <li>Meu nome é Pedro Henrique.</li>
-  	<li>Apaixonado por tecnologia e programação.</li>
-  	<li>Entusiasta da programação mobile.</li>
+    <li>My name is Pedro Mequelim.</li>
+  	<li>Passionate about technology and programming.</li>
+  	<li>Enthusiastic about web and mobile development.</li>
+    <li>Passionate about Artificial Intelligence and Machine Learning.</li>
   </ul>
 </div>
 
@@ -16,7 +17,7 @@
 </div>
 
 <div>
-    <h2>Principais tecnologias</h2>
+    <h2>Main technologies</h2>
     <h3>FrontEnd</h3>
     <div align="center">
       <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
@@ -59,7 +60,7 @@
     </div>
 </div>
 
-<h2>Entre em contato</h2>
+<h2>Contact me</h2>
 <div align="center">
     <a href="mailto:pedromequelim@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
