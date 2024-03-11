@@ -1,4 +1,4 @@
-# Seja muito bem-vindo(a)! 👋
+# Welcome! 👋
 
 <div>
   <h2>About me</h2>
