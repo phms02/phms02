@@ -22,7 +22,7 @@
     <div align="center">
       <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
       <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
-      <img alt="SASS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
+      <img alt="SASS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
       <img alt="TailwindCSS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
