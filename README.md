@@ -27,8 +27,6 @@
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
       <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
-      <img alt="Vue.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
-      <img alt="Nuxt.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nuxt">
     </div>
     <br>
     <h3>BackEnd</h3>
@@ -45,6 +43,7 @@
     <h3>Mobile</h3>
     <div align="center">
       <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
+      <img alt="Kotlin" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=kotlin">
     </div>
     <br>
     <h3>Database</h3>
