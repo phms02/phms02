@@ -42,7 +42,6 @@
     <h3>Mobile</h3>
     <div align="center">
       <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      <img alt="Kotlin" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=kotlin">
     </div>
     <br>
     <h3>Database</h3>
