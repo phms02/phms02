@@ -37,12 +37,12 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
-      <img alt="Firebase" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=firebase">
+      <img alt="Dart" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dart">
     </div>
     <br>
     <h3>Mobile</h3>
     <div align="center">
-      <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
+      <img alt="Flutter" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=flutter">
     </div>
     <br>
     <h3>Database</h3>
