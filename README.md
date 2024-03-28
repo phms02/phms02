@@ -37,6 +37,10 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
+      <!-- <img alt="Python" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=python">
+      <img alt="Django" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=django">
+      <img alt="Flask" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=flask">
+      <img alt="FastAPI" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=fastapi"> -->
     </div>
     <br>
     <h3>Mobile</h3>
@@ -46,9 +50,12 @@
     <br>
     <h3>Database</h3>
     <div align="center">
+      <!-- <img alt="Oracle SQL" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> -->
       <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
+      <!-- <img alt="DynamoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=dynamodb">
+      <img alt="Cassandra" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=cassandra"> -->
     </div>
     <br>
     <h3>ORM</h3>
