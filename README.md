@@ -37,10 +37,8 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
-      <!-- <img alt="Python" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=python">
-      <img alt="Django" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=django">
-      <img alt="Flask" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=flask">
-      <img alt="FastAPI" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=fastapi"> -->
+      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
+      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
     </div>
     <br>
     <h3>Mobile</h3>
