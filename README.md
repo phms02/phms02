@@ -61,6 +61,13 @@
       <img alt="Sequelize" height="55" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
       <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
+    <br>
+    <h3>Package managers</h3>
+    <div align="center">
+      <img alt="npm" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=npm">
+      <img alt="Yarn" height="55" width="40" align="center" src="https://skillicons.dev/icons?i=yarn">
+      <img alt="Docker" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=docker">
+    </div>
 </div>
 
 <h2>Contact me</h2>
