@@ -37,8 +37,6 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
-      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
-      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
     </div>
     <br>
     <h3>Mobile</h3>
@@ -48,12 +46,8 @@
     <br>
     <h3>Database</h3>
     <div align="center">
-      <!-- <img alt="Oracle SQL" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> -->
       <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
-      <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
-      <!-- <img alt="DynamoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=dynamodb">
-      <img alt="Cassandra" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=cassandra"> -->
     </div>
     <br>
     <h3>ORM</h3>
