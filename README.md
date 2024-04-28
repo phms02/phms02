@@ -22,6 +22,7 @@
       <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
       <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
       <img alt="SASS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
+      <img alt="Tailwind CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
       <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
@@ -35,6 +36,8 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
+      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
+      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
     </div>
     <br>
     <h3>Mobile</h3>
