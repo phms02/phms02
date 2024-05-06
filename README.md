@@ -36,8 +36,8 @@
       <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
       <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
-      <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
-      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
+      <!-- <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
+      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet"> -->
     </div>
     <br>
     <h3>Mobile</h3>
@@ -49,7 +49,7 @@
     <div align="center">
       <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
       <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
-      <img alt="SQL Server" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+      <!-- <img alt="SQL Server" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /> -->
       <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
     </div>
     <br>
