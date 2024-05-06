@@ -13,6 +13,8 @@
   <a href="https://github.com/phms07">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=6&theme=github_dark"/>
   </a>
+
+  <!-- ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia) -->
 </div>
 
 <div>
