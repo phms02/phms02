@@ -9,13 +9,13 @@
   </ul>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/phms02">
     <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 
-  <!-- ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia) -->
-</div>
+  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia)
+</div> -->
 
 <div>
     <h2>Main technologies</h2>
