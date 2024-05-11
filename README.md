@@ -94,7 +94,7 @@
 <h2>Contact me</h2>
 <div align="center">
     <a href="mailto:pedromequelim@gmail.com">
-      <img alt="Gmail" height="35" width="30" align="center" src="https://skillicons.dev/icons?i=gmail">
+      <img alt="Gmail" height="40" width="30" align="center" src="https://skillicons.dev/icons?i=gmail">
     </a>
     <a href="https://www.linkedin.com/in/mequelim">
       <img alt="LinkedIn" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=linkedin">
