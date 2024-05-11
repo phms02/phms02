@@ -21,29 +21,29 @@
     <h2>Main technologies</h2>
     <h3>FrontEnd</h3>
     <div align="center">
-      <img alt="HTML" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=html">
-      <img alt="CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=css">
-      <img alt="SASS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=sass">
+      <!-- <img alt="HTML" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=html"> -->
+      <img alt="CSS" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=css">
+      <img alt="SASS" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=sass">
       <img alt="Tailwind CSS" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=tailwind">
       <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
       <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
-      <img alt="React.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
-      <img alt="Next.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=next">
+      <img alt="React.js" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=react">
+      <img alt="Next.js" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=next">
+      <img alt="Vue.js" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=vue">
+      <img alt="Nuxt.js" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=nuxt">
     </div>
     <br>
     <h3>BackEnd</h3>
     <div align="center">
-      <img alt="TypeScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=ts">
-      <img alt="Node.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nodejs">
-      <img alt="Express.js" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=express">
-      <img alt="NestJS" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=nest">
+      <!-- <img alt="Golang" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=go"> -->
+      <img alt="TypeScript" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=ts">
+      <img alt="Node.js" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=nodejs">
+      <img alt="Express.js" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=express">
+      <img alt="NestJS" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=nest">
       <img alt="Fastify" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg">
-      <!-- <img alt="C#" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=cs">
-      <img alt=".NET" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dotnet">
-      <img alt="Java" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=java">
-      <img alt="Spring Boot" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=spring">
-      <img alt="Dart" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=dart">
-      <img alt="Golang" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=go"> -->
+      <!-- <img alt="C#" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cs">
+      <img alt=".NET" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dotnet">
+      <img alt="Dart" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dart"> -->
     </div>
     <br>
     <h3>Mobile</h3>
@@ -59,15 +59,15 @@
       <h3>SQL</h3>
       <div align="center">
         <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
-        <img alt="OracleSQL" height="55" width="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
         <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
-        <!-- <img alt="SQL Server" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> -->
+        <!-- <img alt="OracleSQL" height="55" width="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+        <img alt="SQL Server" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> -->
       </div>
       <h3>NoSQL</h3>
       <div align="center">
         <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
-        <img alt="Cassandra" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=cassandra">
-        <img alt="DynamoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=dynamodb">
+        <!-- <img alt="Cassandra" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=cassandra">
+        <img alt="DynamoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
       </div>
     </div>
     <br>
@@ -76,12 +76,12 @@
       <img alt="Sequelize" height="55" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
       <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
-    <br>
+    <!-- <br>
     <h3>Software Testing</h3>
     <div align="center">
       <img alt="Jest" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=jest">
       <img alt="Cypress" height="42" width="45" align="center" src="https://skillicons.dev/icons?i=cypress">
-    </div>
+    </div> -->
     <br>
     <h3>Package managers</h3>
     <div align="center">
