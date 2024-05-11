@@ -58,45 +58,45 @@
     <div>
       <h3>SQL</h3>
       <div align="center">
-        <img alt="PostgreSQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=postgresql">
-        <img alt="MySQL" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mysql">
+        <img alt="PostgreSQL" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=postgresql">
+        <img alt="MySQL" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=mysql">
         <!-- <img alt="OracleSQL" height="55" width="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-        <img alt="SQL Server" height="45" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> -->
+        <img alt="SQL Server" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> -->
       </div>
       <h3>NoSQL</h3>
       <div align="center">
-        <img alt="MongoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=mongodb">
-        <!-- <img alt="Cassandra" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=cassandra">
-        <img alt="DynamoDB" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
+        <img alt="MongoDB" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=mongodb">
+        <!-- <img alt="Cassandra" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cassandra">
+        <img alt="DynamoDB" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
       </div>
     </div>
     <br>
     <h3>ORM</h3>
     <div align="center">
-      <img alt="Sequelize" height="55" width="45" align="center" src="https://skillicons.dev/icons?i=sequelize">
-      <img alt="Prisma" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=prisma">
+      <img alt="Sequelize" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=sequelize">
+      <img alt="Prisma" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=prisma">
     </div>
     <!-- <br>
     <h3>Software Testing</h3>
     <div align="center">
-      <img alt="Jest" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=jest">
-      <img alt="Cypress" height="42" width="45" align="center" src="https://skillicons.dev/icons?i=cypress">
+      <img alt="Jest" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=jest">
+      <img alt="Cypress" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=cypress">
     </div> -->
     <br>
     <h3>Package managers</h3>
     <div align="center">
-      <img alt="npm" height="45" width="45" align="center" src="https://skillicons.dev/icons?i=npm">
-      <img alt="Yarn" height="55" width="40" align="center" src="https://skillicons.dev/icons?i=yarn">
-      <img alt="Docker" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=docker">
+      <img alt="npm" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=npm">
+      <img alt="Yarn" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=yarn">
+      <img alt="Docker" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=docker">
     </div>
 </div>
 
 <h2>Contact me</h2>
 <div align="center">
     <a href="mailto:pedromequelim@gmail.com">
-      <img alt="Gmail" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=gmail">
+      <img alt="Gmail" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=gmail">
     </a>
     <a href="https://www.linkedin.com/in/mequelim">
-      <img alt="LinkedIn" height="45" width="40" align="center" src="https://skillicons.dev/icons?i=linkedin">
+      <img alt="LinkedIn" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=linkedin">
     </a>
 </div>
