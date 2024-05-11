@@ -97,6 +97,6 @@
       <img alt="Gmail" height="40" width="30" align="center" src="https://skillicons.dev/icons?i=gmail">
     </a>
     <a href="https://www.linkedin.com/in/mequelim">
-      <img alt="LinkedIn" height="20" width="30" align="center" src="https://skillicons.dev/icons?i=linkedin">
+      <img alt="LinkedIn" height="25" width="30" align="center" src="https://skillicons.dev/icons?i=linkedin">
     </a>
 </div>
