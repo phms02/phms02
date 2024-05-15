@@ -69,13 +69,6 @@
     <img alt="AWS" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img alt="Azure" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   </div>
-  <br>
-  <h3>Package managers</h3>
-  <div align="center">
-    <img alt="npm" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=npm">
-    <img alt="Yarn" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=yarn">
-    <img alt="Docker" height="35" width="35" align="center" src="https://skillicons.dev/icons?i=docker">
-  </div>
 </div>
 
 <h2>Contact me</h2>
