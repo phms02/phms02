@@ -3,8 +3,8 @@
 <div>
   <h2>About me</h2>
   <ul>
-    <li>My name is Pedro Mequelim.</li>
-  	<li>Passionate about technology and programming.</li>
+    <li>My name is Pedro Mequelim;</li>
+  	<li>Passionate about technology and programming;</li>
   	<li>Enthusiastic about web and mobile development.</li>
   </ul>
 </div>
