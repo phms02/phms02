@@ -55,16 +55,16 @@
   <h2>Database</h2>
   <div>
     <h3>SQL</h3>
-      <div align="center">
+    <div align="center">
       <img alt="PostgreSQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-      <!-- <img alt="Oracle SQL" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-      <img alt="SQL Server" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> -->
+      <img alt="Oracle SQL" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+      <img alt="SQL Server" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
     </div>
     <h3>NoSQL</h3>
     <div align="center">
       <img alt="MongoDB" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-      <!-- <img alt="Cassandra" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
-      <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
+      <img alt="Cassandra" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
+      <!-- <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
     </div>
   </div>
   <h2>ORMs</h2>
