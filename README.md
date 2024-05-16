@@ -20,8 +20,8 @@
 </div> -->
 
 <div>
-  <h1>Main technologies</h1>
-  <h2>FrontEnd</h2>
+  <h2>Main technologies</h1>
+  <h3>FrontEnd</h2>
   <div align="center">
     <img alt="HTML" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img alt="CSS" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -33,7 +33,7 @@
     <img alt="React.js" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <img alt="Next.js" height="55" width="55" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg">
   </div>
-  <h2>BackEnd</h2>
+  <h3>BackEnd</h2>
   <div align="center">
     <!-- <img height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> -->
     <img alt="TypeScript" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -41,44 +41,44 @@
     <img alt="C#" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
     <img alt=".NET" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dotnet">
   </div>
-  <h2>Mobile</h2>
+  <h3>Mobile</h2>
   <div align="center">
     <img alt="React Native" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
     <!-- <img alt="Flutter" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
     <img alt="Kotlin" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
     <img alt="Swift" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"> -->
   </div>
-  <!-- <h2>API</h2>
+  <!-- <h3>API</h2>
   <div align="center">
     <img alt="GraphQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg">
   </div> -->
-  <h2>Database</h2>
+  <h3>Database</h2>
   <div>
-    <h3>SQL</h3>
+    <h4>SQL</h3>
     <div align="center">
       <img alt="PostgreSQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
       <img alt="Oracle SQL" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
       <img alt="SQL Server" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
     </div>
-    <h3>NoSQL</h3>
+    <h4>NoSQL</h3>
     <div align="center">
       <img alt="MongoDB" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
       <img alt="Cassandra" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
       <!-- <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
     </div>
   </div>
-  <!-- <h2>ORMs</h2>
+  <!-- <h3>ORMs</h2>
   <div align="center">
     <img alt="Prisma" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
     <img alt="Sequelize" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg">
   </div> -->
-  <h2>Software Testing</h2>
+  <h3>Software Testing</h2>
   <div align="center">
     <!-- <img alt="Cypress" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
     <img alt="Jest" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"> -->
     <img alt="Selenium" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
   </div>
-  <h2>Cloud</h2>
+  <h3>Cloud</h2>
   <div align="center">
     <img alt="AWS" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img alt="Azure" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
