@@ -9,15 +9,18 @@
   </ul>
 </div>
 
-<!-- <div align="center">
+<br>
+
+<div align="center">
   <a href="https://github.com/phms02">
     <img height="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 
-  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia)
-</div> -->
+ <!-- ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia) -->
+</div>
 
 <div>
+  <h1>Main technologies</h1>
   <h2>FrontEnd</h2>
   <div align="center">
     <img alt="HTML" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -64,11 +67,11 @@
       <!-- <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
     </div>
   </div>
-  <h2>ORMs</h2>
+  <!-- <h2>ORMs</h2>
   <div align="center">
     <img alt="Prisma" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
     <img alt="Sequelize" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg">
-  </div>
+  </div> -->
   <h2>Software Testing</h2>
   <div align="center">
     <!-- <img alt="Cypress" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
