@@ -65,8 +65,8 @@
     <h4>NoSQL</h3>
     <div align="center">
       <img alt="MongoDB" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-      <img alt="Cassandra" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
-      <!-- <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
+      <!-- <img alt="Cassandra" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg">
+      <img alt="DynamoDB" height="30" width="30" align="center" src="https://skillicons.dev/icons?i=dynamodb"> -->
     </div>
   </div>
   <h3>ORMs</h2>
