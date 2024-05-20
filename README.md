@@ -5,7 +5,7 @@
   <ul>
     <li>My name is Pedro Mequelim;</li>
   	<li>Passionate about technology and programming;</li>
-  	<li>Enthusiastic about web and mobile development.</li>
+  	<li>Enthusiastic about software architecture.</li>
   </ul>
 </div>
 
