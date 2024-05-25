@@ -12,9 +12,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/phms02">
-    <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div>
