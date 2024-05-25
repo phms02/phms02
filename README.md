@@ -9,12 +9,6 @@
   </ul>
 </div>
 
-<br>
-
-<div align="center">
-  <img height="210rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
 <div>
   <h2>Main technologies</h1>
   <h3>FrontEnd</h2>
