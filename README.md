@@ -11,7 +11,7 @@
 
 <div>
   <h2>Main technologies</h1>
-  <h3>FrontEnd</h2>
+  <h3>FrontEnd</h3>
   <div align="center">
     <img alt="HTML" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -28,7 +28,7 @@
     <img alt="Vuetify" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
     <img alt="Angular" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
   </div>
-  <h3>BackEnd</h2>
+  <h3>BackEnd</h3>
   <div align="center">
     <img alt="TypeScript" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="Node.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
