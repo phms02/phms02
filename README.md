@@ -10,6 +10,16 @@
 </div>
 
 <div>
+  <h3>Statics</h3>
+  <div align="center">
+  <a href="https://github.com/phms02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=4&theme=algolia"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/> -->
+  </a>
+</div>
+
+<div>
   <h2>Main technologies</h1>
   <h3>FrontEnd</h3>
   <div align="center">
@@ -39,22 +49,22 @@
   </div>
   <h3>Mobile</h2>
   <div align="center">
-    <img alt="React Native" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <!-- <img alt="Flutter" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img alt="Kotlin" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-    <img alt="Swift" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> -->
+    <img alt="React Native" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <!-- <img alt="Swift" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+    <img alt="Flutter" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> -->
   </div>
-  <h3>API</h2>
+  <!-- <h3>API</h2>
   <div align="center">
     <img alt="GraphQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  </div>
+  </div> -->
   <h3>Database</h2>
   <div>
     <h4>SQL</h3>
     <div align="center">
       <img alt="Oracle SQL" height="45" width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
       <img alt="PostgreSQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      <img alt="MySQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <!-- <img alt="MySQL" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> -->
     </div>
     <h4>NoSQL</h3>
     <div align="center">
@@ -66,8 +76,8 @@
   </div>
   <h3>ORMs</h2>
   <div align="center">
-    <img alt="Prisma" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-    <img alt="Sequelize" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+    <!-- <img alt="Prisma" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+    <img alt="Sequelize" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" /> -->
     <img alt="Hibernate" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
   </div>
   <h3>Software Testing</h2>
