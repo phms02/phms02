@@ -33,11 +33,11 @@
     <img alt="JavaScript" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img alt="React.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Next.js" height="40" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-    <img alt="Redux.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+    <!-- <img alt="Redux.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
     <img alt="Vue.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
     <img alt="Nuxt.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
     <img alt="Vuetify" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
-    <img alt="Angular" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    <img alt="Angular" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
   </div>
   <h3>BackEnd</h2>
   <div align="center">
