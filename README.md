@@ -40,7 +40,7 @@
   <h3>BackEnd</h2>
   <div align="center">
     <img alt="TypeScript" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img alt="Node.js" height="22" width="22" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img alt="Node.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
     <img alt="Express.js" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     <!-- <img alt="NestJS" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
     <img alt="Ruby" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
