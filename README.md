@@ -15,7 +15,7 @@
   <a href="https://github.com/phms02">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=4&theme=algolia"/>
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/> -->
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/> -->
   </a>
 </div>
 
@@ -29,7 +29,7 @@
     <img alt="Tailwind CSS" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img alt="TypeScript" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img alt="JavaScript" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="React.js" height="22" width="22" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="React.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="Next.js" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
     <img alt="Redux.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
     <!-- <img alt="Vue.js" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
@@ -57,7 +57,7 @@
   <div align="center">
     <img alt="Kotlin" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
     <!-- <img alt="Swift" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> -->
-    <img alt="React Native" height="22" width="22" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="React Native" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <!-- <img alt="Flutter" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> -->
   </div>
   <!-- <h3>API</h2>
