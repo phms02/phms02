@@ -9,15 +9,15 @@
   </ul>
 </div>
 
-<div>
+<!-- <div>
   <h3>Statics</h3>
   <div align="center">
   <a href="https://github.com/phms02">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=4&theme=algolia"/>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phms02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</div>
+</div> -->
 
 <div>
   <h3>FrontEnd</h2>
@@ -108,21 +108,6 @@
     <img alt="Heroku" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
     <img alt="Netlify" height="50" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" />
   </div> -->
-  <h3>Development Tools</h3>
-  <div align="center">
-    <img alt="Visual Studio Code" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <!-- <img alt="Visual Studio" height="30" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> -->
-    <img alt="Android Studio" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-    <img alt="JetBrains" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
-    <img alt="DataGrip" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />
-    <img alt="IntelliJ IDEA" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-    <!-- <img alt="Goland" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" />
-    <img alt="PyCharm" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-    <img alt="Rider" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
-    <img alt="RubyMine" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" /> -->
-    <img alt="WebStorm" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
-    <!-- <img alt="Xcode" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" /> -->
-  </div>
   <h3>DevOps Tools</h2>
   <div align="center">
     <img alt="Git" height="30" width="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
