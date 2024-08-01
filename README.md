@@ -9,14 +9,14 @@
   </ul>
 </div>
 
-<div>
+<!-- <div>
   <h3>Statics</h3>
   <div align="center">
     <a href="https://github.com/phms02">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phms02&include_all_commits&count_private=true&layout=compact&langs_count=4&theme=algolia" />
     </a>
   </div>
-</div>
+</div> -->
 
 <div>
   <h2>Main Technologies</h2>
