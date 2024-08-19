@@ -13,26 +13,24 @@
 
 <div align="center">
   <img
-    width="700em"
+    width="300em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=algolia"
   />
 </div>
 
 <div align="center">
   <img
-    width="400em"
+    width="200em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=algolia"
   />
 </div>
 
 <div align="center">
   <img
-    width="400em"
+    width="200em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=algolia"
   />
 </div>
-
-<!--  -->
 
 ## Main Technologies
 
