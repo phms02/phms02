@@ -20,7 +20,7 @@
 
 <div align="center">
   <img
-    width="700em"
+    width="500em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=algolia"
   />
 </div>
