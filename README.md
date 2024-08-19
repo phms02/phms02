@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## About me
-<div style="font-size:1.5rem">
+<div>
   <ul>
     <li>My name is Pedro Mequelim;</li>
     <li>Passionate about technology and programming;</li>
