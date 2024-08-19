@@ -57,9 +57,9 @@
   <!-- <img alt="Flutter" height="25" width="25" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> -->
 </div>
 
-### API
+<!-- ### API
 
-<!-- <div align="center">
+<div align="center">
   <img alt="GraphQL" height="35" width="35" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </div> -->
 
