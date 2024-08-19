@@ -12,10 +12,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=algolia" />
+  <img width="180rem" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=algolia" />
 </p>
-<br/><br/>
-
 
 <div>
   <h2>Main Technologies</h2>
