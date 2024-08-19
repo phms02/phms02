@@ -13,7 +13,7 @@
 
 <div align="center">
   <img
-    width="500em"
+    width="600em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=algolia"
   />
 </div>
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img
-    width="400em"
+    width="350rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=algolia"
   />
 </div>
