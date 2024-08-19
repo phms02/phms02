@@ -13,17 +13,10 @@
 
 <div align="center">
   <img
-    width="600em"
+    width="680em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=algolia"
   />
 </div>
-
-<!-- <div align="center">
-  <img
-    width="200em"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=algolia"
-  />
-</div> -->
 
 <div align="center">
   <img
