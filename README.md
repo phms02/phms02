@@ -11,12 +11,12 @@
 
 ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img
     width="350rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=algolia"
   />
-</div> -->
+</div>
 
 ## Main Technologies
 
