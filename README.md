@@ -13,21 +13,33 @@
 
 <div align="center">
   <img
-    height="250rem"
+    height="450rem"
     width="450rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
   />
 
   <img
     height="220rem"
     width="350rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=github_dark"
   />
 
   <img
     height="220rem"
     width="350rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
+  />
+
+  <img
+    height="220rem"
+    width="350rem"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phms02&theme=github_dark"
+  />
+
+  <img
+    height="220rem"
+    width="350rem"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phms02&theme=github_dark&utcOffset=8"
   />
 </div>
 
