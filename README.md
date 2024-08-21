@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 
-<div style="display: flex; flex-direction: column; justify-content: center; gap: 0.2rem">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.2rem">
   <img
     height="250rem"
     width="350rem"
