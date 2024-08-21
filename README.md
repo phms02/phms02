@@ -13,8 +13,8 @@
 
 <div align="center">
   <img
-    height="220rem"
-    width="350rem"
+    height="250rem"
+    width="450rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
   />
 
