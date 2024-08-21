@@ -29,7 +29,7 @@
 
 ### FrontEnd
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 1rem">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 5rem">
   <img alt="HTML" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="styled-components" height="25" width="25" src="https://skillicons.dev/icons?i=styledcomponents" />
