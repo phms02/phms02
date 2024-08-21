@@ -13,13 +13,19 @@
 
 <div align="center">
   <img
-    height="200rem"
+    height="220rem"
+    width="350rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
+  />
+
+  <img
+    height="220rem"
     width="350rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=github_dark"
   />
 
   <img
-    height="200rem"
+    height="220rem"
     width="350rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
   />
