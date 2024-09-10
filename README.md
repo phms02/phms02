@@ -12,11 +12,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img
+  <!-- <img
     height="220rem"
     width="650rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
-  />
+  /> -->
 
   <img
     height="220rem"
@@ -30,17 +30,17 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
   />
 
-  <img
+  <!-- <img
     height="220rem"
     width="350rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phms02&theme=github_dark"
-  />
+  /> -->
 
-  <img
+  <!-- <img
     height="220rem"
     width="350rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phms02&theme=github_dark&utcOffset=8"
-  />
+  /> -->
 </div>
 
 ## Main Technologies
