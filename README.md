@@ -6,7 +6,10 @@
     <li>My name is <b>Pedro Mequelim</b>;</li>
     <li>Passionate about <b>technology</b> and <b>programming</b>;</li>
     <li>I am <b>FullStack Software Engineer</b> with focus on <b>Mobile Development</b>, and <b>Cloud & Edge Computing Engineer</b>;</li>
-    <li>Enthusiastic about <b>mobile development</b> and <b>software architecture</b>.</li>
+    <li>Enthusiastic about <b>mobile development</b> and <b>software architecture</b>;</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+    <li>Postgraduate in <b>Cloud & Edge Computing</b>;</li>
+    <li>MBA in <b>FullStack Development</b>.</li>
   </ul>
 </div>
 
