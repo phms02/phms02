@@ -133,7 +133,7 @@
   <img alt="Cypress" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 </div> -->
 
-### Cloud & Hosting
+<!-- ### Cloud & Hosting
 
 <div align="center">
   <img alt="AWS" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -141,7 +141,7 @@
   <img alt="Vercel" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
   <img alt="Heroku" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
   <img alt="Netlify" align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" />
-</div>
+</div> -->
 
 ### DevOps Tools
 
