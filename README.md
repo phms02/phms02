@@ -8,18 +8,17 @@
     <li>I am <b>FullStack Software Engineer</b> with focus on <b>Mobile Development</b>, and <b>Cloud & Edge Computing Engineer</b>;</li>
     <li>Enthusiastic about <b>mobile development</b> and <b>software architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-    <li>MBA in <b>FullStack Development</b>.</li>
   </ul>
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <!-- <img
+  <img
     height="220rem"
     width="650rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phms02&theme=github_dark"
-  /> -->
+  />
 
   <img
     height="220rem"
