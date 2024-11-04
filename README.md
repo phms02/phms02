@@ -33,11 +33,11 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
   />
 
-  <!-- <img
+  <img
     height="220rem"
     width="350rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phms02&theme=github_dark"
-  /> -->
+  />
 
   <!-- <img
     height="220rem"
