@@ -100,7 +100,7 @@
   <!-- <img alt="Cassandra" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" /> -->
   <!-- <img align="center" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" /> -->
   <img alt="Firebase" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img alt="Redis" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <!-- <img alt="Redis" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /> -->
 </div>
 
 ### ORMs
