@@ -7,7 +7,7 @@
     <li>Passionate about <b>technology</b> and <b>programming</b>;</li>
     <li>I am <b>FullStack Software Engineer</b> with focus on <b>Mobile Development</b>;</li>
     <li>Enthusiastic about <b>mobile development</b> and <b>software architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
   </ul>
 </div>
 
