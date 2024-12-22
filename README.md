@@ -14,11 +14,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img
+  <!-- <img
     height="220rem"
     width="350rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phms02&theme=github_dark"
-  />
+  /> -->
 
   <img
     height="220rem"
