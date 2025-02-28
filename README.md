@@ -13,13 +13,13 @@
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img
     height="220rem"
     width="350rem"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phms02&theme=github_dark"
   />
-</div>
+</div> -->
 
 ## Main Technologies
 
